@@ -4,7 +4,7 @@ Summary:	Fork of the standard library cgi and cgitb modules removed in Python 3.
 Name:		python3-legacy-cgi
 Version:	2.6.3
 Release:	1
-License:	MIT
+License:	PSF v2
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/legacy_cgi/
 Source0:	https://files.pythonhosted.org/packages/source/l/legacy_cgi/%{pypi_name}-%{version}.tar.gz
